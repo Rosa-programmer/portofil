@@ -1,8 +1,8 @@
-#Увага
+# Warning
 
-##Це лише пробний проєкт
+## This is just a demo project
 
-Цей проєкт створений **з навчальною або тестовою метою**.  
-Він **не є частиною реального портфоліо** і не претендує на завершеність, якість чи відповідність виробничим стандартам.
+This project is created for **educational or testing purposes.**
+**It is not part of a real portfolio** and does not claim to be complete, quality, or compliant with production standards.
 
-_Будь ласка, не сприймайте цей репозиторій як приклад комерційного або професійного коду._
+_Please do not consider this repository to be an example of commercial or professional code._
